@@ -1,0 +1,25 @@
+UI
+ - Main Menu:
+  + Options menu (sets resolution, volume and overall quality)
+  + High Scores (Used to check local high scores on the same machine)
+ - In Game UI (Could be replaced in future with in game world indicators)
+  + Player health
+  + Possibly time taken / Remaing
+
+Art
+ - A character model (Top view and limited colour pallet so doesn't need detail)
+ - Moths
+ - Level Pieces (Rocks, lamps, wooden beams, gems and shiny rocks)
+
+Animation
+ - Player Character
+ - Moths
+ - Glow for rocks / Lanterns
+
+Blueprint Stuff
+ - Player already has basic movement
+ - AI for Moths (Fly at sources of light when in range)
+ - Save / Loading (For high scores, or if multiple levels are used in future)
+ - Start game sequence (Camera animation of something)
+ - End game sequence (What happens when the player completes the game)
+
